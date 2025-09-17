@@ -1,3 +1,6 @@
+# Github URL
+https://github.com/br4k3n/serverstats
+
 # Server Stats Script
 
 This is a simple Bash script that displays basic server performance statistics.  
@@ -12,5 +15,4 @@ It is designed to be portable and can be run on most Linux systems.
  **Top 5 Processes by Memory** – Lists the top 5 processes consuming the most memory.
 
 
-# Github URL
-https://github.com/br4k3n/serverstats
+
