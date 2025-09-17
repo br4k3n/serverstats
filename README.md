@@ -13,4 +13,4 @@ It is designed to be portable and can be run on most Linux systems.
 
 
 # Github URL
-https://github.com/br4k3n/server-stats
+https://github.com/br4k3n/serverstats
