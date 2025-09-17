@@ -1,6 +1,6 @@
 ## Project URL
 
-https://github.com/br4k3n/serverstats
+https://roadmap.sh/projects/server-stats
 
 
 # Server Stats Script
